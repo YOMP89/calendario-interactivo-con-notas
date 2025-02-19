@@ -1,5 +1,7 @@
 ## Estructura del proyecto
 
+![Pantallazo del proyecto](pantallazo.jpg)
+
 - `index.html`: Contiene la estructura HTML y el código JavaScript del proyecto.
 
 
